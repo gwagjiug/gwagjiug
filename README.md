@@ -5,6 +5,7 @@ Open-source contributions and related pull requests.
 - [WebPro/knip](https://github.com/webpro-nl/knip/pulls?q=is%3Apr+author%3Agwagjiug)
 - [Toss/overlay-kit](https://github.com/toss/overlay-kit/pulls?q=is%3Apr+is%3Aall+gwagjiug)
 - [Toss/es-toolkit](https://github.com/toss/es-toolkit/pulls?q=is%3Apr+is%3Aall+gwagjiug)
+- [colinhacks/zod](https://github.com/colinhacks/zod/pull/5934)
 - [DaleStudy/daleui](https://github.com/DaleStudy/daleui/pull/1145)
 - [Toss/es-hangul](https://github.com/toss/es-hangul/pull/335)
 - [Line/tsr](https://github.com/line/tsr/pull/120)
