@@ -6,7 +6,7 @@ Open-source contributions and related pull requests.
 - [WebPro/knip](https://github.com/webpro-nl/knip/pulls?q=is%3Apr+author%3Agwagjiug)
 - [Toss/overlay-kit](https://github.com/toss/overlay-kit/pulls?q=is%3Apr+is%3Aall+gwagjiug)
 - [Toss/es-toolkit](https://github.com/toss/es-toolkit/pulls?q=is%3Apr+is%3Aall+gwagjiug)
-- [Effect-TS/effect](https://github.com/Effect-TS/effect/pull/7522)
+- [Effect-TS/effect](https://github.com/Effect-TS/effect/pulls?q=is%3Aall+is%3Apr+author%3Agwagjiug)
 - [Woowabros/critical-script](https://github.com/woowabros/critical-script/pulls?q=is%3Apr+is%3Aall+author%3Agwagjiug)
 - [colinhacks/zod](https://github.com/colinhacks/zod/pull/5934)
 - [DaleStudy/daleui](https://github.com/DaleStudy/daleui/pull/1145)
